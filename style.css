@@ -1,0 +1,50 @@
+.header{
+    font-family: 'Encode Sans SC', sans-serif;
+    color: orange;
+
+}
+.section-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+p{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 25px;
+    text-align: justify;
+
+}
+h1{
+    font-size: 50px;
+    margin-left: 30px;
+}
+.section-divider{
+    width: 100%;
+    display: flex;
+}
+.section-divider img{
+    margin-left: 100px;
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 35px;
+    padding: 20px 30px;
+    
+}
+.background-picture{
+background-image: url(images/shapes/Frame\ 57.jpg);   
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+.footer-section{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    
+}
